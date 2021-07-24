@@ -9,7 +9,7 @@ const testimonials = [
   },
   {
     id: 2,
-    name: 'Natalie Nyatsanza',
+    name: 'Natalie',
     title: 'Model',
     org: '',
     desc:
