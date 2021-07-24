@@ -87,15 +87,14 @@ export default function About() {
               <div className="about__info">
                 <PText>
                   I am from Harare, Zimbabwe. A place of beauty and
-                  architecture. I always I always I always I always I always
-                  always made time to explore and go hands on with any gadget
-                  experiments I broke I broke a lot, I broke a I broke I broke a
-                  I broke a lot, but more importantly...I learnt.
+                  architecture. I always made time to explore and go hands on
+                  and like any experiment I broke a lot, but more
+                  importantly...learnt in the process.
                   <br /> <br />
                   I started programming since I was in primary(middle) school.
                   The idea of being able to create applications that the world
-                  can benefit was all I longed for. I love it and now I have
-                  the\ opportunity to program applications and scripts. My
+                  can benefit was all I longed for. I loved it and now I have
+                  the opportunity to program applications and scripts. My
                   learning goes on as technology continuouly improves and as
                   well as the world constantly adapting to the new changes in
                   life it brings.
