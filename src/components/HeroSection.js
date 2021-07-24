@@ -175,7 +175,7 @@ export default function HeroSection() {
               <ul>
                 <li>
                   <a
-                    href="http://facebook.com/webcifar"
+                    href="http://facebook.com/officialjollyy"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -184,7 +184,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/webcifar"
+                    href="http://twitter.com/officialjollyy"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -193,7 +193,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://isntagram.com/web_cifar"
+                    href="http://isntagram.com/officialjollyy"
                     target="_blank"
                     rel="noreferrer"
                   >
