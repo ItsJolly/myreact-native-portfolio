@@ -1,7 +1,7 @@
 const testimonials = [
   {
     id: 1,
-    name: 'Shawn Denglesi',
+    name: 'Shawn Dinglesi',
     title: 'CEO',
     org: 'Elixer',
     desc:
