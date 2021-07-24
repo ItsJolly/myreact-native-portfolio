@@ -1,12 +1,7 @@
-# Ayan's Portfolio website [React Project]
+# Denzel's Portfolio website [React Project]
 
-## Watch On YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/esC2k9z7w2U?style=social) : [Watch Now][youtubelink]
+Coded by - [shaif Arfan](http://instagram.com/officialjollyy) |
 
-## Live Preview: [Open Link][preview]
-
-Coded by - [shaif Arfan](http://instagram.com/shaifarfan08) | [web cifar](http://webcifar.com)
-
-![](./ReadMeImages/ReadMeBanner.png)
 
 ## Project Details
 
@@ -20,45 +15,4 @@ This is a beginner-friendly react js project. There will be a full free step-by-
 1. JavaScript
 1. React Basic (optional)
 
-## What we are going to Use/learn
 
-- React
-- React Hooks
-- Styled Components
-- Swiper js
-- React Transition Group
-- Smooth Scrollbar
-- React Icons
-- React Router Dom
-- More...
-
-## Starter Files
-
-For the starter files, we created a `branch` in this repository named `starter_files`. You need to change the branch in the top corner of the repo then you will get the starter files and now you can clone the repo or `download` it.
-
-## Getting Started
-
-The recommended way to get started with the project is Follow the [YouTube tutorial][youtubelink]. You will find all the step-by-step guides for free. Or you Can start the project on your own by following the guide below.
-
-After getting the starter files, you need to go the file directory and run
-
-```shell
-npm install
-```
-
-and after that start the live server.
-
-```shell
-npm start
-```
-
-## want to use the website ?
-
-This tutorial is made for educational purpose. Also this is free to use. Though if you use this website, you need to give us the proper credit for the website. keep the bottom footer part of the website.
-![](./ReadMeImages/designedByWebCifar.png)
-
-# If you like the tutorial, please share this with others.
-
-[preview]: https://ayans-portfolio.netlify.app/
-[youtubelink]: https://www.youtube.com/playlist?list=PLRv_Gd5w9e7mO-lGxKkNSWiAlsiZHnQYY
-[webcifarwebsite]: https://webcifar.com
