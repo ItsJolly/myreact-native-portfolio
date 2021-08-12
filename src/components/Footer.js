@@ -116,7 +116,7 @@ export default function Footer() {
               },
               {
                 title: 'Instagram',
-                path: 'http://instagram.com/officialjolllyy',
+                path: 'https://imageshare.best/profile.php?id=J5MOBK',
               },
             ]}
           />

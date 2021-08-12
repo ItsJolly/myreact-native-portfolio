@@ -81,7 +81,7 @@ export default function AboutSection() {
           />
           <PText>
             I am a freelance designer, full stack developer and networking and
-            computer security expert from Harare, Zimbabwe. I create
+            computer security Intermediate from Harare, Zimbabwe. I create
             professional mobile applications, websites. I love computer science
             and always try to show unique views to the world through my skills.
           </PText>

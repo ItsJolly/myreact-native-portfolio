@@ -184,7 +184,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/officialjollyy"
+                    href="https://imageshare.best/profile.php?id=6W4ZCH"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -193,7 +193,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://isntagram.com/officialjollyy"
+                    href="https://imageshare.best/profile.php?id=J5MOBK"
                     target="_blank"
                     rel="noreferrer"
                   >
